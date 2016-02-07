@@ -1,0 +1,480 @@
+<grip:Pipeline>
+  <sources>
+    <grip:MultiImageFile>
+      <property name="path[108]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\223.jpg"/>
+      <property name="path[363]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\516.jpg"/>
+      <property name="path[295]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\438.jpg"/>
+      <property name="path[191]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\312.jpg"/>
+      <property name="path[359]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\512.jpg"/>
+      <property name="path[323]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\476.jpg"/>
+      <property name="path[73]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\188.jpg"/>
+      <property name="path[255]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\376.jpg"/>
+      <property name="path[187]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\308.jpg"/>
+      <property name="path[151]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\268.jpg"/>
+      <property name="path[319]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\472.jpg"/>
+      <property name="path[69]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\184.jpg"/>
+      <property name="path[33]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\58.jpg"/>
+      <property name="path[215]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\336.jpg"/>
+      <property name="path[147]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\264.jpg"/>
+      <property name="path[111]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\226.jpg"/>
+      <property name="path[29]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\32.jpg"/>
+      <property name="path[107]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\222.jpg"/>
+      <property name="path[362]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\515.jpg"/>
+      <property name="path[294]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\437.jpg"/>
+      <property name="path[190]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\311.jpg"/>
+      <property name="path[358]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\511.jpg"/>
+      <property name="path[322]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\475.jpg"/>
+      <property name="path[72]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\187.jpg"/>
+      <property name="path[254]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\375.jpg"/>
+      <property name="path[186]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\307.jpg"/>
+      <property name="path[150]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\267.jpg"/>
+      <property name="path[318]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\471.jpg"/>
+      <property name="path[68]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\183.jpg"/>
+      <property name="path[32]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\56.jpg"/>
+      <property name="path[214]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\335.jpg"/>
+      <property name="path[146]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\263.jpg"/>
+      <property name="path[110]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\225.jpg"/>
+      <property name="path[28]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\31.jpg"/>
+      <property name="path[106]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\221.jpg"/>
+      <property name="path[361]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\514.jpg"/>
+      <property name="path[293]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\436.jpg"/>
+      <property name="path[357]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\510.jpg"/>
+      <property name="path[321]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\474.jpg"/>
+      <property name="path[289]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\432.jpg"/>
+      <property name="path[71]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\186.jpg"/>
+      <property name="path[9]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\12.jpg"/>
+      <property name="path[253]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\374.jpg"/>
+      <property name="path[185]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\306.jpg"/>
+      <property name="path[317]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\470.jpg"/>
+      <property name="path[67]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\182.jpg"/>
+      <property name="path[249]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\370.jpg"/>
+      <property name="path[31]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\55.jpg"/>
+      <property name="path[213]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\334.jpg"/>
+      <property name="path[145]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\262.jpg"/>
+      <property name="path[27]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\30.jpg"/>
+      <property name="path[209]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\330.jpg"/>
+      <property name="path[105]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\220.jpg"/>
+      <property name="path[360]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\513.jpg"/>
+      <property name="path[292]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\435.jpg"/>
+      <property name="path[356]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\509.jpg"/>
+      <property name="path[320]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\473.jpg"/>
+      <property name="path[288]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\431.jpg"/>
+      <property name="path[70]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\185.jpg"/>
+      <property name="path[8]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\11.jpg"/>
+      <property name="path[252]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\373.jpg"/>
+      <property name="path[184]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\305.jpg"/>
+      <property name="path[316]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\469.jpg"/>
+      <property name="path[66]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\181.jpg"/>
+      <property name="path[248]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\369.jpg"/>
+      <property name="path[30]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\33.jpg"/>
+      <property name="path[212]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\333.jpg"/>
+      <property name="path[144]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\261.jpg"/>
+      <property name="path[26]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\29.jpg"/>
+      <property name="path[208]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\329.jpg"/>
+      <property name="path[104]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\219.jpg"/>
+      <property name="path[291]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\434.jpg"/>
+      <property name="numImages" value="390"/>
+      <property name="path[355]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\508.jpg"/>
+      <property name="path[287]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\430.jpg"/>
+      <property name="path[7]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\9.jpg"/>
+      <property name="path[251]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\372.jpg"/>
+      <property name="path[183]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\304.jpg"/>
+      <property name="path[315]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\468.jpg"/>
+      <property name="path[65]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\92.jpg"/>
+      <property name="path[247]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\368.jpg"/>
+      <property name="path[179]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\300.jpg"/>
+      <property name="path[211]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\332.jpg"/>
+      <property name="path[143]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\260.jpg"/>
+      <property name="path[25]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\28.jpg"/>
+      <property name="path[207]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\328.jpg"/>
+      <property name="path[139]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\255.jpg"/>
+      <property name="path[103]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\218.jpg"/>
+      <property name="path[290]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\433.jpg"/>
+      <property name="path[354]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\507.jpg"/>
+      <property name="path[286]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\429.jpg"/>
+      <property name="path[6]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\8.jpg"/>
+      <property name="path[250]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\371.jpg"/>
+      <property name="path[182]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\303.jpg"/>
+      <property name="path[314]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\467.jpg"/>
+      <property name="path[64]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\91.jpg"/>
+      <property name="path[246]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\367.jpg"/>
+      <property name="path[210]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\331.jpg"/>
+      <property name="path[178]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\299.jpg"/>
+      <property name="path[142]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\259.jpg"/>
+      <property name="path[24]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\27.jpg"/>
+      <property name="path[206]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\327.jpg"/>
+      <property name="path[138]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\254.jpg"/>
+      <property name="path[102]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\217.jpg"/>
+      <property name="path[389]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\542.jpg"/>
+      <property name="path[353]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\506.jpg"/>
+      <property name="path[285]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\428.jpg"/>
+      <property name="path[5]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\7.jpg"/>
+      <property name="path[181]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\302.jpg"/>
+      <property name="path[349]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\502.jpg"/>
+      <property name="path[99]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\214.jpg"/>
+      <property name="path[313]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\466.jpg"/>
+      <property name="path[63]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\90.jpg"/>
+      <property name="path[245]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\366.jpg"/>
+      <property name="path[177]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\298.jpg"/>
+      <property name="path[141]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\258.jpg"/>
+      <property name="path[309]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\452.jpg"/>
+      <property name="path[59]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\86.jpg"/>
+      <property name="path[23]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\26.jpg"/>
+      <property name="path[205]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\326.jpg"/>
+      <property name="path[137]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\253.jpg"/>
+      <property name="path[101]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\216.jpg"/>
+      <property name="path[19]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\22.jpg"/>
+      <property name="path[388]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\541.jpg"/>
+      <property name="path[352]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\505.jpg"/>
+      <property name="path[4]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\6.jpg"/>
+      <property name="path[284]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\427.jpg"/>
+      <property name="path[180]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\301.jpg"/>
+      <property name="path[348]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\501.jpg"/>
+      <property name="path[98]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\213.jpg"/>
+      <property name="path[312]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\465.jpg"/>
+      <property name="path[62]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\89.jpg"/>
+      <property name="path[244]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\365.jpg"/>
+      <property name="path[176]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\297.jpg"/>
+      <property name="path[140]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\257.jpg"/>
+      <property name="path[308]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\451.jpg"/>
+      <property name="path[58]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\85.jpg"/>
+      <property name="path[22]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\25.jpg"/>
+      <property name="path[204]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\325.jpg"/>
+      <property name="path[136]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\252.jpg"/>
+      <property name="path[100]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\215.jpg"/>
+      <property name="path[18]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\21.jpg"/>
+      <property name="path[387]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\540.jpg"/>
+      <property name="path[351]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\504.jpg"/>
+      <property name="path[3]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\5.jpg"/>
+      <property name="path[283]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\426.jpg"/>
+      <property name="path[347]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\500.jpg"/>
+      <property name="path[97]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\212.jpg"/>
+      <property name="path[311]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\454.jpg"/>
+      <property name="path[279]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\422.jpg"/>
+      <property name="path[61]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\88.jpg"/>
+      <property name="path[243]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\364.jpg"/>
+      <property name="path[175]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\296.jpg"/>
+      <property name="path[307]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\450.jpg"/>
+      <property name="path[57]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\84.jpg"/>
+      <property name="path[239]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\360.jpg"/>
+      <property name="path[21]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\24.jpg"/>
+      <property name="path[203]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\324.jpg"/>
+      <property name="path[135]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\251.jpg"/>
+      <property name="path[17]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\20.jpg"/>
+      <property name="path[386]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\539.jpg"/>
+      <property name="path[350]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\503.jpg"/>
+      <property name="path[2]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\4.jpg"/>
+      <property name="path[282]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\425.jpg"/>
+      <property name="path[346]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\499.jpg"/>
+      <property name="path[96]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\211.jpg"/>
+      <property name="path[310]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\453.jpg"/>
+      <property name="path[278]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\421.jpg"/>
+      <property name="path[60]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\87.jpg"/>
+      <property name="path[242]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\363.jpg"/>
+      <property name="path[174]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\295.jpg"/>
+      <property name="path[306]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\449.jpg"/>
+      <property name="path[56]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\83.jpg"/>
+      <property name="path[238]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\359.jpg"/>
+      <property name="path[20]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\23.jpg"/>
+      <property name="path[202]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\323.jpg"/>
+      <property name="path[134]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\249.jpg"/>
+      <property name="path[16]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\19.jpg"/>
+      <property name="path[385]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\538.jpg"/>
+      <property name="path[1]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\3.jpg"/>
+      <property name="path[281]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\424.jpg"/>
+      <property name="path[345]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\498.jpg"/>
+      <property name="path[95]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\210.jpg"/>
+      <property name="path[277]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\420.jpg"/>
+      <property name="path[241]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\362.jpg"/>
+      <property name="path[173]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\294.jpg"/>
+      <property name="path[305]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\448.jpg"/>
+      <property name="path[55]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\82.jpg"/>
+      <property name="path[237]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\358.jpg"/>
+      <property name="path[169]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\290.jpg"/>
+      <property name="path[201]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\322.jpg"/>
+      <property name="path[133]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\248.jpg"/>
+      <property name="path[15]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\18.jpg"/>
+      <property name="path[129]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\244.jpg"/>
+      <property name="path[384]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\537.jpg"/>
+      <property name="path[0]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\0.jpg"/>
+      <property name="path[280]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\423.jpg"/>
+      <property name="path[344]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\497.jpg"/>
+      <property name="path[94]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\209.jpg"/>
+      <property name="path[276]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\399.jpg"/>
+      <property name="path[240]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\361.jpg"/>
+      <property name="path[172]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\293.jpg"/>
+      <property name="path[304]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\447.jpg"/>
+      <property name="path[54]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\81.jpg"/>
+      <property name="path[236]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\357.jpg"/>
+      <property name="path[168]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\285.jpg"/>
+      <property name="path[200]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\321.jpg"/>
+      <property name="path[132]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\247.jpg"/>
+      <property name="path[14]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\17.jpg"/>
+      <property name="path[128]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\243.jpg"/>
+      <property name="path[383]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\536.jpg"/>
+      <property name="path[379]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\532.jpg"/>
+      <property name="path[343]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\496.jpg"/>
+      <property name="path[93]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\208.jpg"/>
+      <property name="path[275]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\398.jpg"/>
+      <property name="path[171]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\292.jpg"/>
+      <property name="path[339]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\492.jpg"/>
+      <property name="path[89]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\204.jpg"/>
+      <property name="path[303]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\446.jpg"/>
+      <property name="path[53]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\80.jpg"/>
+      <property name="path[235]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\356.jpg"/>
+      <property name="path[167]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\284.jpg"/>
+      <property name="path[131]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\246.jpg"/>
+      <property name="path[49]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\74.jpg"/>
+      <property name="path[13]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\16.jpg"/>
+      <property name="path[127]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\242.jpg"/>
+      <property name="path[382]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\535.jpg"/>
+      <property name="path[378]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\531.jpg"/>
+      <property name="path[342]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\495.jpg"/>
+      <property name="path[92]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\207.jpg"/>
+      <property name="path[274]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\397.jpg"/>
+      <property name="path[170]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\291.jpg"/>
+      <property name="path[338]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\491.jpg"/>
+      <property name="path[88]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\203.jpg"/>
+      <property name="path[302]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\445.jpg"/>
+      <property name="path[52]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\79.jpg"/>
+      <property name="path[234]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\355.jpg"/>
+      <property name="path[166]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\283.jpg"/>
+      <property name="path[130]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\245.jpg"/>
+      <property name="path[48]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\73.jpg"/>
+      <property name="path[12]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\15.jpg"/>
+      <property name="path[126]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\241.jpg"/>
+      <property name="path[381]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\534.jpg"/>
+      <property name="path[377]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\530.jpg"/>
+      <property name="path[341]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\494.jpg"/>
+      <property name="path[91]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\206.jpg"/>
+      <property name="path[273]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\396.jpg"/>
+      <property name="path[337]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\490.jpg"/>
+      <property name="path[87]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\202.jpg"/>
+      <property name="path[301]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\444.jpg"/>
+      <property name="path[269]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\392.jpg"/>
+      <property name="path[51]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\76.jpg"/>
+      <property name="path[233]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\354.jpg"/>
+      <property name="path[165]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\282.jpg"/>
+      <property name="path[47]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\72.jpg"/>
+      <property name="path[229]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\350.jpg"/>
+      <property name="path[11]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\14.jpg"/>
+      <property name="path[125]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\240.jpg"/>
+      <property name="path[380]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\533.jpg"/>
+      <property name="path[376]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\529.jpg"/>
+      <property name="path[340]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\493.jpg"/>
+      <property name="path[90]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\205.jpg"/>
+      <property name="path[272]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\395.jpg"/>
+      <property name="path[336]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\489.jpg"/>
+      <property name="path[86]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\201.jpg"/>
+      <property name="path[300]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\443.jpg"/>
+      <property name="path[268]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\391.jpg"/>
+      <property name="path[50]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\75.jpg"/>
+      <property name="path[232]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\353.jpg"/>
+      <property name="path[164]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\281.jpg"/>
+      <property name="path[46]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\71.jpg"/>
+      <property name="path[228]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\349.jpg"/>
+      <property name="path[10]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\13.jpg"/>
+      <property name="path[124]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\239.jpg"/>
+      <property name="path[375]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\528.jpg"/>
+      <property name="path[271]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\394.jpg"/>
+      <property name="path[335]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\488.jpg"/>
+      <property name="path[85]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\200.jpg"/>
+      <property name="path[267]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\390.jpg"/>
+      <property name="path[199]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\320.jpg"/>
+      <property name="path[231]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\352.jpg"/>
+      <property name="path[163]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\280.jpg"/>
+      <property name="path[45]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\70.jpg"/>
+      <property name="path[227]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\348.jpg"/>
+      <property name="path[159]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\276.jpg"/>
+      <property name="path[123]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\238.jpg"/>
+      <property name="index" value="41"/>
+      <property name="path[119]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\234.jpg"/>
+      <property name="path[374]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\527.jpg"/>
+      <property name="path[270]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\393.jpg"/>
+      <property name="path[334]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\487.jpg"/>
+      <property name="path[84]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\199.jpg"/>
+      <property name="path[266]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\389.jpg"/>
+      <property name="path[230]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\351.jpg"/>
+      <property name="path[198]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\319.jpg"/>
+      <property name="path[162]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\279.jpg"/>
+      <property name="path[44]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\69.jpg"/>
+      <property name="path[226]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\347.jpg"/>
+      <property name="path[158]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\275.jpg"/>
+      <property name="path[122]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\237.jpg"/>
+      <property name="path[118]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\233.jpg"/>
+      <property name="path[373]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\526.jpg"/>
+      <property name="path[369]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\522.jpg"/>
+      <property name="path[333]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\486.jpg"/>
+      <property name="path[83]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\198.jpg"/>
+      <property name="path[265]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\388.jpg"/>
+      <property name="path[197]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\318.jpg"/>
+      <property name="path[161]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\278.jpg"/>
+      <property name="path[329]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\482.jpg"/>
+      <property name="path[79]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\194.jpg"/>
+      <property name="path[43]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\68.jpg"/>
+      <property name="path[225]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\346.jpg"/>
+      <property name="path[157]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\274.jpg"/>
+      <property name="path[121]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\236.jpg"/>
+      <property name="path[39]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\64.jpg"/>
+      <property name="path[117]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\232.jpg"/>
+      <property name="path[372]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\525.jpg"/>
+      <property name="path[368]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\521.jpg"/>
+      <property name="path[332]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\485.jpg"/>
+      <property name="path[82]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\197.jpg"/>
+      <property name="path[264]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\387.jpg"/>
+      <property name="path[196]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\317.jpg"/>
+      <property name="path[160]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\277.jpg"/>
+      <property name="path[328]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\481.jpg"/>
+      <property name="path[78]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\193.jpg"/>
+      <property name="path[42]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\67.jpg"/>
+      <property name="path[224]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\345.jpg"/>
+      <property name="path[156]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\273.jpg"/>
+      <property name="path[120]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\235.jpg"/>
+      <property name="path[38]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\63.jpg"/>
+      <property name="path[116]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\231.jpg"/>
+      <property name="path[371]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\524.jpg"/>
+      <property name="path[367]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\520.jpg"/>
+      <property name="path[331]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\484.jpg"/>
+      <property name="path[299]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\442.jpg"/>
+      <property name="path[81]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\196.jpg"/>
+      <property name="path[263]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\386.jpg"/>
+      <property name="path[195]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\316.jpg"/>
+      <property name="path[327]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\480.jpg"/>
+      <property name="path[77]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\192.jpg"/>
+      <property name="path[259]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\380.jpg"/>
+      <property name="path[41]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\66.jpg"/>
+      <property name="path[223]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\344.jpg"/>
+      <property name="path[155]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\272.jpg"/>
+      <property name="path[37]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\62.jpg"/>
+      <property name="path[219]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\340.jpg"/>
+      <property name="path[115]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\230.jpg"/>
+      <property name="path[370]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\523.jpg"/>
+      <property name="path[366]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\519.jpg"/>
+      <property name="path[330]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\483.jpg"/>
+      <property name="path[298]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\441.jpg"/>
+      <property name="path[80]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\195.jpg"/>
+      <property name="path[262]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\385.jpg"/>
+      <property name="path[194]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\315.jpg"/>
+      <property name="path[326]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\479.jpg"/>
+      <property name="path[76]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\191.jpg"/>
+      <property name="path[258]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\379.jpg"/>
+      <property name="path[40]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\65.jpg"/>
+      <property name="path[222]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\343.jpg"/>
+      <property name="path[154]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\271.jpg"/>
+      <property name="path[36]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\61.jpg"/>
+      <property name="path[218]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\339.jpg"/>
+      <property name="path[114]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\229.jpg"/>
+      <property name="path[365]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\518.jpg"/>
+      <property name="path[297]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\440.jpg"/>
+      <property name="path[261]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\384.jpg"/>
+      <property name="path[193]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\314.jpg"/>
+      <property name="path[325]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\478.jpg"/>
+      <property name="path[75]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\190.jpg"/>
+      <property name="path[257]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\378.jpg"/>
+      <property name="path[189]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\310.jpg"/>
+      <property name="path[221]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\342.jpg"/>
+      <property name="path[153]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\270.jpg"/>
+      <property name="path[35]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\60.jpg"/>
+      <property name="path[217]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\338.jpg"/>
+      <property name="path[149]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\266.jpg"/>
+      <property name="path[113]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\228.jpg"/>
+      <property name="path[109]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\224.jpg"/>
+      <property name="path[364]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\517.jpg"/>
+      <property name="path[296]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\439.jpg"/>
+      <property name="path[260]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\381.jpg"/>
+      <property name="path[192]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\313.jpg"/>
+      <property name="path[324]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\477.jpg"/>
+      <property name="path[74]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\189.jpg"/>
+      <property name="path[256]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\377.jpg"/>
+      <property name="path[188]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\309.jpg"/>
+      <property name="path[220]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\341.jpg"/>
+      <property name="path[152]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\269.jpg"/>
+      <property name="path[34]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\59.jpg"/>
+      <property name="path[216]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\337.jpg"/>
+      <property name="path[148]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\265.jpg"/>
+      <property name="path[112]" value="D:\Tristan Protzman\Downloads\RealFullField\RealFullField\227.jpg"/>
+    </grip:MultiImageFile>
+  </sources>
+  <steps>
+    <grip:Step name="RGB Threshold">
+      <grip:Input step="0" socket="0"/>
+      <grip:Input step="0" socket="1">
+        <value>
+          <double>0.0</double>
+          <double>255.0</double>
+        </value>
+      </grip:Input>
+      <grip:Input step="0" socket="2">
+        <value>
+          <double>66.50179856115108</double>
+          <double>255.0</double>
+        </value>
+      </grip:Input>
+      <grip:Input step="0" socket="3">
+        <value>
+          <double>0.0</double>
+          <double>255.0</double>
+        </value>
+      </grip:Input>
+      <grip:Output step="0" socket="0" previewed="false"/>
+    </grip:Step>
+    <grip:Step name="Find Contours">
+      <grip:Input step="1" socket="0"/>
+      <grip:Input step="1" socket="1">
+        <value>false</value>
+      </grip:Input>
+      <grip:Output step="1" socket="0" previewed="true"/>
+    </grip:Step>
+    <grip:Step name="Filter Contours">
+      <grip:Input step="2" socket="0"/>
+      <grip:Input step="2" socket="1">
+        <value>500.0</value>
+      </grip:Input>
+      <grip:Input step="2" socket="2">
+        <value>0</value>
+      </grip:Input>
+      <grip:Input step="2" socket="3">
+        <value>0</value>
+      </grip:Input>
+      <grip:Input step="2" socket="4">
+        <value>1000</value>
+      </grip:Input>
+      <grip:Input step="2" socket="5">
+        <value>0</value>
+      </grip:Input>
+      <grip:Input step="2" socket="6">
+        <value>1000</value>
+      </grip:Input>
+      <grip:Input step="2" socket="7">
+        <value>
+          <int>0</int>
+          <int>100</int>
+        </value>
+      </grip:Input>
+      <grip:Output step="2" socket="0" previewed="true"/>
+    </grip:Step>
+  </steps>
+  <connections>
+    <grip:Connection>
+      <grip:Output step="0" socket="0" previewed="false"/>
+      <grip:Input step="1" socket="0"/>
+    </grip:Connection>
+    <grip:Connection>
+      <grip:Output source="0" socket="0" previewed="false"/>
+      <grip:Input step="0" socket="0"/>
+    </grip:Connection>
+    <grip:Connection>
+      <grip:Output step="1" socket="0" previewed="true"/>
+      <grip:Input step="2" socket="0"/>
+    </grip:Connection>
+  </connections>
+  <settings>
+    <teamNumber>4285</teamNumber>
+    <publishAddress>roborio-4285-frc.local</publishAddress>
+    <deployAddress>roborio-4285-frc.local</deployAddress>
+    <deployDir>/home/lvuser</deployDir>
+    <deployUser>lvuser</deployUser>
+    <deployJavaHome>/usr/local/frc/JRE/</deployJavaHome>
+    <deployJvmOptions>-Xmx50m -XX:-OmitStackTraceInFastThrow -XX:+HeapDumpOnOutOfMemoryError</deployJvmOptions>
+  </settings>
+</grip:Pipeline>
