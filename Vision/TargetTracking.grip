@@ -17,7 +17,7 @@
       <grip:Input step="0" socket="4">
         <value>INTER_LINEAR</value>
       </grip:Input>
-      <grip:Output step="0" socket="0" previewed="true"/>
+      <grip:Output step="0" socket="0" previewed="false"/>
     </grip:Step>
     <grip:Step name="HSV Threshold">
       <grip:Input step="1" socket="0"/>
@@ -39,7 +39,7 @@
           <double>255.0</double>
         </value>
       </grip:Input>
-      <grip:Output step="1" socket="0" previewed="true"/>
+      <grip:Output step="1" socket="0" previewed="false"/>
     </grip:Step>
     <grip:Step name="CV erode">
       <grip:Input step="2" socket="0"/>
@@ -72,7 +72,7 @@
       <grip:Input step="4" socket="1">
         <value>false</value>
       </grip:Input>
-      <grip:Output step="4" socket="0" previewed="false"/>
+      <grip:Output step="4" socket="0" previewed="true"/>
     </grip:Step>
     <grip:Step name="Filter Contours">
       <grip:Input step="5" socket="0"/>
@@ -80,19 +80,19 @@
         <value>500.0</value>
       </grip:Input>
       <grip:Input step="5" socket="2">
-        <value>0</value>
+        <value>0.0</value>
       </grip:Input>
       <grip:Input step="5" socket="3">
-        <value>0</value>
+        <value>0.0</value>
       </grip:Input>
       <grip:Input step="5" socket="4">
-        <value>1000</value>
+        <value>1000.0</value>
       </grip:Input>
       <grip:Input step="5" socket="5">
-        <value>0</value>
+        <value>0.0</value>
       </grip:Input>
       <grip:Input step="5" socket="6">
-        <value>1000</value>
+        <value>1000.0</value>
       </grip:Input>
       <grip:Input step="5" socket="7">
         <value>
@@ -100,7 +100,7 @@
           <double>56.48464163822526</double>
         </value>
       </grip:Input>
-      <grip:Output step="5" socket="0" previewed="true"/>
+      <grip:Output step="5" socket="0" previewed="false"/>
     </grip:Step>
     <grip:Step name="Publish ContoursReport">
       <grip:Input step="6" socket="0"/>
@@ -129,23 +129,15 @@
   </steps>
   <connections>
     <grip:Connection>
-      <grip:Output step="4" socket="0" previewed="false"/>
-      <grip:Input step="5" socket="0"/>
-    </grip:Connection>
-    <grip:Connection>
-      <grip:Output source="0" socket="0" previewed="false"/>
+      <grip:Output source="0" socket="0" previewed="true"/>
       <grip:Input step="0" socket="0"/>
     </grip:Connection>
     <grip:Connection>
-      <grip:Output step="1" socket="0" previewed="true"/>
+      <grip:Output step="1" socket="0" previewed="false"/>
       <grip:Input step="2" socket="0"/>
     </grip:Connection>
     <grip:Connection>
-      <grip:Output step="0" socket="0" previewed="true"/>
-      <grip:Input step="1" socket="0"/>
-    </grip:Connection>
-    <grip:Connection>
-      <grip:Output step="5" socket="0" previewed="true"/>
+      <grip:Output step="4" socket="0" previewed="true"/>
       <grip:Input step="6" socket="0"/>
     </grip:Connection>
     <grip:Connection>
@@ -155,6 +147,10 @@
     <grip:Connection>
       <grip:Output step="3" socket="0" previewed="false"/>
       <grip:Input step="4" socket="0"/>
+    </grip:Connection>
+    <grip:Connection>
+      <grip:Output step="0" socket="0" previewed="false"/>
+      <grip:Input step="1" socket="0"/>
     </grip:Connection>
   </connections>
   <settings>
