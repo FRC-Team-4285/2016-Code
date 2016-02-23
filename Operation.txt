@@ -32,6 +32,22 @@ BUTTON 11
 BUTTON 12	
 SLIDER		Thrower Speed
 
+OTHER STICK
+
+BUTTON 1	
+BUTTON 2	
+BUTTON 3	
+BUTTON 4	Lifter Down
+BUTTON 5	Lifter Up
+BUTTON 6	Tape Measure Up
+BUTTON 7	Tape Measure Down
+BUTTON 8	
+BUTTON 9	
+BUTTON 10	
+BUTTON 11	
+BUTTON 12	
+SLIDER		Thrower Speed
+
 ROBORIO PWM
 
 PWM 0		Left Drive Motor 1
@@ -105,7 +121,7 @@ LAPTOP USB DEVICES
 
 USB 1		Left Stick
 USB 2		Right Stick
-USB 3		
+USB 3		Other Stick
 USB 4		
 USB 5		
 USB 6		
